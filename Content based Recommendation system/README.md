@@ -1,0 +1,3 @@
+# Content-based-Recommendation-system
+
+This data set of movies shows 'movies' along with the 'genre' of each of the movies. Suppose the user has watched and rated some movies. We extract the genre data from the movies watched by the user. When this data is multiplied with the user ratings we get the user profile. This user profile is then multiplied with the genre data from unwatched movies to get the recommendation matrix. The recommender engine then recommends one of the unwatched candidate movies to the user, or in other words, predict what the user's possible rating would be of the unwatched movies if he were to watch them.
